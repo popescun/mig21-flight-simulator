@@ -2,8 +2,12 @@
 
 Demo project for flight simulation of the legendary `MiG 21` military jet. It's from a long time ago when I was just starting with C++ and 3D graphics. Although the code and graphics look rudimentary, the flight dynamics is enough realistic. The project also includes a simplistic but robust collision detection system.   
 
+## Model
+
+[MiG-21SMT Fishbed-K](https://sketchfab.com/3d-models/mig-21smt-fishbed-k-8cf77a2b596442778fa957a7a71c0cc4) by `Tim Samedov`.
+
 ### Build
-The project is compatible with VS 2022. It requires `DirectX8 NuGet` package(just add it in VS).
+The project is compatible with `VS 2022`. It requires `DirectX 8 NuGet` package(just add it in `VS`).
 
 ### Keyboard controls
 
