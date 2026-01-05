@@ -7,5 +7,5 @@ Demo project for flight simulation of the legendary `MiG 21` military jet. It's 
 ![](./Screenshots/mig21_cockpit.png)
 ![](./Screenshots/mig21_exterior.png)
 <video width="480" height="280" controls>
-  <source src="./Screenshots/mig21_fly.mp4" type="video/mp4">
+  <source src="./Screenshots/mig21_flight_480.mov" type="video/mp4">
 </video>
