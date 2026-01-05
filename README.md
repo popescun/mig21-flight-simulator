@@ -24,6 +24,7 @@ The project is compatible with VS 2022. It requires `DirectX8 NuGet` package(jus
 
 ![](./Screenshots/mig21_cockpit.png)
 ![](./Screenshots/mig21_exterior.png)
-<video width="480" height="280" controls>
-  <source src="./Screenshots/mig21_flight_480.mov" type="video/mov">
+
+<video controls>
+  <source src=https://github.com/popescun/mig21-flight-simulator/blob/main/Screenshots/mig21_flight_720.mp4 type="video/mp4">
 </video>
