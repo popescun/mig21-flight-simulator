@@ -29,6 +29,4 @@ The project is compatible with `VS 2022`. It requires `DirectX 8 NuGet` package(
 ![](./Screenshots/mig21_cockpit.png)
 ![](./Screenshots/mig21_exterior.png)
 
-<video controls>
-  <source src=https://github.com/popescun/mig21-flight-simulator/blob/main/Screenshots/mig21_flight_720.mp4 type="video/mp4">
-</video>
+### [recording](./Screenshots/mig21_flight_720.mp4)
